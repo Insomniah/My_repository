@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 20%;
+    background-color: #14af48;
+    float: left;
+    
+  }
+  .nav li {
+    list-style-type: none;
+    padding: 5px;
+    font-size: 20px;
+  }
+  .item a {
+      color: white;
+      text-decoration: none;
+  }
+  .item a.active {
+    color: gold;
+  }

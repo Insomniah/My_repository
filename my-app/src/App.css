@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app-wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+.app-wrapper-content {
+  background-color: #4e90f3;
+  width: calc(80% - 20px);
+  height: 100vh;
+  margin-left: calc(20% + 20px);
+}
+.content_picture {
+  width: 100%;
+}
